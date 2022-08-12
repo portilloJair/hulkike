@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/maxtocat.gif?raw=true">
+  <img align="left" width="200" height="200" src="https://raw.githubusercontent.com/hulkike/hulkike/master/images/gobbleotron.gif?raw=true">
   
 ### My personal profile
 ---
